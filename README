@@ -1,0 +1,6 @@
+Install postgres locally on port 5432, username=postgres, password=postgres
+Create database webshop
+Create schema webshop_schema 
+
+run as 
+java -jar webshop-0.0.1-SNAPSHOT.jar
